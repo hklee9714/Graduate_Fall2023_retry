@@ -1,10 +1,10 @@
 # Graduate_Fall2023_retry
 
-##### NLP_2023
+# NLP_2023
 
-###### 🐹🍦 **Python Language**
+# 🐹🍦 **Python Language**
 
-## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
+#### **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
 
 ### **1. Sign up github** ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=c-NikCpec7U))
 ### **2. Sign up Google Colaboratory** (aka. Colab) ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=2X_EU18OeYM))
@@ -17,6 +17,10 @@
 ### **4. Markdown Language**
 *[Emoji](https://gist.github.com/rxaviers/7360908)
 *[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
+
+|:--:|:-:|:-:|
+|1||markdown language,hyperlink,|[variable, assign]
+|(https://github.com/hklee9714/Graduate_Fall2023_retry)|
 
 ### **5. Class Materials**
 | # | Sessions | Keywords |
